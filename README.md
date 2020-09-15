@@ -1,1 +1,2 @@
-# VS_isTouching_bounceOff
+# collisionAlgorithm
+Algorithm to detect collision between two objects
